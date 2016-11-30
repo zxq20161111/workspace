@@ -1,0 +1,5 @@
+public class HellowWorld {
+public void static (String[] arg0){
+System.out.print("Hello World")
+}
+}
